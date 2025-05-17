@@ -1,0 +1,37 @@
+{
+  "greetings": [
+    "Hello! How can I assist you today?",
+    "Hi there! What do you need help with?",
+    "Welcome! How can I help you?"
+  ],
+  "farewells": [
+    "Thank you for reaching out! Have a great day!",
+    "Goodbye! If you have more questions, feel free to ask.",
+    "Thanks for chatting! Take care!"
+  ],
+  "product_inquiries": [
+    "Can you tell me more about our products?",
+    "What are the latest deals on our products?",
+    "How can I find a specific product?"
+  ],
+  "order_status": [
+    "You can check your order status by providing your order number.",
+    "Please give me your order number to track your order.",
+    "I can help you with your order status. What is your order number?"
+  ],
+  "returns": [
+    "To initiate a return, please provide your order number.",
+    "You can return items within 30 days of purchase. Do you need help with a return?",
+    "What item would you like to return?"
+  ],
+  "store_hours": [
+    "Our store hours are from 9 AM to 9 PM, Monday to Sunday.",
+    "You can visit us from 9 AM to 9 PM every day.",
+    "We are open daily from 9 AM to 9 PM."
+  ],
+  "default": [
+    "I'm sorry, I didn't understand that. Can you please rephrase?",
+    "Could you please provide more details?",
+    "I'm here to help! What else can I assist you with?"
+  ]
+}

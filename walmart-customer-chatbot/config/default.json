@@ -1,0 +1,21 @@
+{
+  "appName": "Walmart Customer Chatbot",
+  "version": "1.0.0",
+  "api": {
+    "baseUrl": "https://api.walmart.com/chatbot",
+    "timeout": 5000
+  },
+  "logging": {
+    "level": "info",
+    "file": "logs/app.log"
+  },
+  "nlp": {
+    "serviceUrl": "https://nlp.service.url",
+    "apiKey": "your-nlp-api-key"
+  },
+  "chatbot": {
+    "defaultResponses": "data/responses.json",
+    "maxResponseTime": 3000
+  },
+  "environment": "development"
+}

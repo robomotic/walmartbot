@@ -1,0 +1,22 @@
+{
+  "port": 3000,
+  "database": {
+    "url": "mongodb://localhost:27017/walmart-chatbot",
+    "options": {
+      "useNewUrlParser": true,
+      "useUnifiedTopology": true
+    }
+  },
+  "api": {
+    "baseUrl": "https://api.walmart.com",
+    "key": "YOUR_API_KEY"
+  },
+  "logging": {
+    "level": "info",
+    "file": "logs/production.log"
+  },
+  "nlp": {
+    "serviceUrl": "https://nlp-service.example.com",
+    "apiKey": "YOUR_NLP_API_KEY"
+  }
+}
